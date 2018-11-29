@@ -1,0 +1,32 @@
+{
+  "name": "apanel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@blueprintjs/core": "^3.0.0",
+    "@blueprintjs/datetime": "^3.0.0",
+    "@blueprintjs/docs-theme": "^3.0.0",
+    "@blueprintjs/table": "^3.0.0",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.4",
+    "react-simple-flex-grid": "^1.2.3",
+    "react-transition-group": "^2.4.0",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "proxy": "http://apanel.loc",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
